@@ -45,6 +45,6 @@
     "prettier": "^3.0.2",
     "sass": "~1.32",
     "unplugin-vue-components": "^0.22.12",
-    "vite": "^4"
+    "vite": "^6"
   }
 }
