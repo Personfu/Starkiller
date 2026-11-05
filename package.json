@@ -22,7 +22,7 @@
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.0",
     "portal-vue": "^2.1.7",
-    "qs": "^6.10.3",
+    "qs": "^6.16.1",
     "semver": "^7.3.5",
     "socket.io-client": "^4.1.2",
     "splitpanes": "^2.3.8",
